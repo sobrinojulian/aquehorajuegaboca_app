@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    // directories
+    ".dart_tool": true,
+    ".idea": true,
+    "android": true,
+    "build": true,
+    "ios": true,
+    "linux": true,
+    "macos": true,
+    "web": true,
+    "windows": true,
+    // files
+    ".metadata": true,
+    "aquehorajuegaboca_app.iml": true,
+    "pubspec.lock": true,
+    "analysis_options.yaml": true
+}
