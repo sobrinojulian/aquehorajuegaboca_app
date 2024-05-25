@@ -3,25 +3,17 @@ class Album {
   final int id;
   final String title;
 
-  const Album({
+  Album({
     required this.userId,
     required this.id,
     required this.title,
   });
 
   factory Album.fromJson(Map<String, dynamic> json) {
-    return switch (json) {
-      {
-        'userId': int userId,
-        'id': int id,
-        'title': String title,
-      } =>
-        Album(
-          userId: userId,
-          id: id,
-          title: title,
-        ),
-      _ => throw const FormatException('Failed to load album.'),
-    };
+    return Album(
+      userId: json['userId'],
+      id: json['id'],
+      title: json['title'],
+    );
   }
 }

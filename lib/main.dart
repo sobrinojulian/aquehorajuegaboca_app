@@ -4,8 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:aquehorajuegaboca_app/models.dart';
 import 'package:aquehorajuegaboca_app/api.dart';
 
-
-
 void main() => runApp(const MyApp());
 
 class MyApp extends StatefulWidget {
@@ -16,12 +14,12 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  late Future<Album> futureAlbum;
+  late Future<List<Album>> futureAlbums;
 
   @override
   void initState() {
     super.initState();
-    futureAlbum = fetchAlbum();
+    futureAlbums = fetchAlbums();
   }
 
   @override
@@ -36,16 +34,24 @@ class _MyAppState extends State<MyApp> {
           title: const Text('Fetch Data Example'),
         ),
         body: Center(
-          child: FutureBuilder<Album>(
-            future: futureAlbum,
+          child: FutureBuilder<List<Album>>(
+            future: futureAlbums,
             builder: (context, snapshot) {
               if (snapshot.hasData) {
-                return Text(snapshot.data!.title);
+                return ListView.builder(
+                  itemCount: snapshot.data!.length,
+                  itemBuilder: (context, index) {
+                    return ListTile(
+                      title: Text(snapshot.data![index].title),
+                      subtitle:
+                          Text('ID: ${snapshot.data![index].id.toString()}'),
+                    );
+                  },
+                );
               } else if (snapshot.hasError) {
                 return Text('${snapshot.error}');
               }
 
-              // By default, show a loading spinner.
               return const CircularProgressIndicator();
             },
           ),
