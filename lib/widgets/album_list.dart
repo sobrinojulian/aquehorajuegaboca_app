@@ -5,7 +5,7 @@ import 'package:aquehorajuegaboca_app/widgets/album_tile.dart';
 class AlbumList extends StatelessWidget {
   final List<Album> albums;
 
-  const AlbumList({Key? key, required this.albums}) : super(key: key);
+  const AlbumList({super.key, required this.albums});
 
   @override
   Widget build(BuildContext context) {
