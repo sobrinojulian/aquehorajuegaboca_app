@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:intl/intl.dart';
 import 'package:aquehorajuegaboca_app/models.dart';
 
 class MatchTile extends StatelessWidget {
@@ -8,40 +9,65 @@ class MatchTile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final DateTime utcDate =
+        match.date.toUtc().add(const Duration(hours: -3)); // UTC-03:00
+
+    final DateFormat dayOfWeekFormat = DateFormat('EEE'); // Mon
+    final DateFormat dateFormat = DateFormat('dd/MM'); // 24/05
+    final DateFormat timeFormat = DateFormat('HH:mm'); // 14:30
+
     return Card(
       child: Padding(
         padding: const EdgeInsets.all(8.0),
         child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(
-              'Match ID: ${match.id}',
-              style: TextStyle(fontWeight: FontWeight.bold),
-            ),
-            Text(
-              'Date: ${match.date.toLocal()}',
-              style: TextStyle(color: Colors.grey[600]),
-            ),
-            Text('League: ${match.league}'),
-            SizedBox(height: 10),
-            Text('Competitors:', style: TextStyle(fontWeight: FontWeight.bold)),
-            ...match.competitors.map((competitor) => Row(
+            Text(match.league),
+            Row(
               children: [
-                Image.network(competitor.logo, height: 24, width: 24),
-                SizedBox(width: 10),
-                Text('${competitor.displayName} (${competitor.isHome ? "Home" : "Away"})'),
+                Expanded(
+                  child: Column(
+                    children: [
+                      Image.network(
+                        match.competitors[0].logo,
+                        height: 48.0,
+                        width: 48.0,
+                      ),
+                      const SizedBox(width: 8.0),
+                      Text(
+                        match.competitors[0].displayName,
+                        textAlign: TextAlign.center,
+                      ),
+                    ],
+                  ),
+                ),
+                Expanded(
+                  child: Column(
+                    children: [
+                      Text(dayOfWeekFormat.format(utcDate)),
+                      Text(dateFormat.format(utcDate)),
+                      Text(timeFormat.format(utcDate)),
+                      // Text('UTC-03:00'), // Display the time zone
+                    ],
+                  ),
+                ),
+                Expanded(
+                  child: Column(
+                    children: [
+                      Image.network(
+                        match.competitors[1].logo,
+                        height: 48.0,
+                        width: 48.0,
+                      ),
+                      const SizedBox(width: 8.0),
+                      Text(
+                        match.competitors[1].displayName,
+                        textAlign: TextAlign.center,
+                      ),
+                    ],
+                  ),
+                ),
               ],
-            )).toList(),
-            SizedBox(height: 10),
-            Text(
-              match.tbd ? 'To be decided' : match.completed ? 'Completed' : 'Scheduled',
-              style: TextStyle(color: match.completed ? Colors.green : Colors.orange),
             ),
-            SizedBox(height: 10),
-            Text('Venue:', style: TextStyle(fontWeight: FontWeight.bold)),
-            Text('Name: ${match.venue.fullName}'),
-            Text('City: ${match.venue.address.city}'),
-            Text('Country: ${match.venue.address.country}'),
           ],
         ),
       ),

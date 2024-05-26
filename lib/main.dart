@@ -32,9 +32,9 @@ class _MyAppState extends State<MyApp> {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
       home: Scaffold(
-        appBar: AppBar(
-          title: const Text('A que hora juega Boca?'),
-        ),
+        // appBar: AppBar(
+        //   title: const Text('A que hora juega Boca?'),
+        // ),
         body: Center(
           child: FutureBuilder<List<Match>>(
             future: futureMatches,
