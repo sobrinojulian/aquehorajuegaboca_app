@@ -2,21 +2,21 @@ class Match {
   final String id;
   final List<Competitor> competitors;
   final DateTime date;
-  //final bool tbd;
-  //final bool completed;
-  //final String link;
+  final bool tbd;
+  final bool completed;
+  final String link;
   final String league;
-  //final Venue venue;
+  final Venue venue;
 
   Match({
     required this.id,
     required this.competitors,
     required this.date,
-    //required this.tbd,
-    //required this.completed,
-    //required this.link,
+    required this.tbd,
+    required this.completed,
+    required this.link,
     required this.league,
-    //required this.venue,
+    required this.venue,
   });
 
   factory Match.fromJson(Map<String, dynamic> json) {
@@ -26,11 +26,11 @@ class Match {
           .map((competitorJson) => Competitor.fromJson(competitorJson))
           .toList(),
       date: DateTime.parse(json['date']),
-      //tbd: json['tbd'],
-      //completed: json['completed'],
-      //link: json['link'],
+      tbd: json['tbd'],
+      completed: json['completed'],
+      link: json['link'],
       league: json['league'],
-      //venue: Venue.fromJson(json['venue']),
+      venue: Venue.fromJson(json['venue']),
     );
   }
 }
@@ -73,8 +73,8 @@ class Venue {
 }
 
 class Address {
-  final String city;
-  final String country;
+  final String? city;
+  final String? country;
 
   Address({required this.city, required this.country});
 
