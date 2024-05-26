@@ -45,8 +45,9 @@ class MatchTile extends StatelessWidget {
                     children: [
                       Text(dayOfWeekFormat.format(utcDate)),
                       Text(dateFormat.format(utcDate)),
-                      Text(timeFormat.format(utcDate)),
-                      // Text('UTC-03:00'), // Display the time zone
+                      match.tbd
+                          ? const Text('TBD')
+                          : Text(timeFormat.format(utcDate)),
                     ],
                   ),
                 ),
