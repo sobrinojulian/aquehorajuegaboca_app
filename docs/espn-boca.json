@@ -1,0 +1,2078 @@
+[
+  {
+    "id": "694202",
+    "competitors": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "19",
+        "abbrev": "TDC",
+        "displayName": "Talleres (Córdoba)",
+        "shortDisplayName": "Talleres (Córdoba)",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Talleres (Córdoba)",
+        "links": "/futbol/equipo/_/id/19/talleres-cordoba",
+        "isHome": false
+      }
+    ],
+    "date": "2024-05-25T23:00Z",
+    "tbd": false,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694202/talleres-cordoba-boca-juniors",
+    "teams": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "19",
+        "abbrev": "TDC",
+        "displayName": "Talleres (Córdoba)",
+        "shortDisplayName": "Talleres (Córdoba)",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Talleres (Córdoba)",
+        "links": "/futbol/equipo/_/id/19/talleres-cordoba",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "Sáb, Mayo 25º at 7:00 PM EDT",
+      "link": "/futbol/partido/_/juegoId/694202/talleres-cordoba-boca-juniors"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Alberto José Armando (La Bombonera)",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "701190",
+    "competitors": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "10311",
+        "abbrev": "POT",
+        "displayName": "Nacional Potosí",
+        "shortDisplayName": "Nacional Potosí",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10311.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Nacional Potosí",
+        "links": "/futbol/equipo/_/id/10311/nacional-potosi",
+        "isHome": false
+      }
+    ],
+    "date": "2024-05-30T00:00Z",
+    "tbd": false,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/701190/nacional-potosi-boca-juniors",
+    "teams": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "10311",
+        "abbrev": "POT",
+        "displayName": "Nacional Potosí",
+        "shortDisplayName": "Nacional Potosí",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10311.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Nacional Potosí",
+        "links": "/futbol/equipo/_/id/10311/nacional-potosi",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "Mié, Mayo 29º at 8:00 PM EDT",
+      "link": "/futbol/partido/_/juegoId/701190/nacional-potosi-boca-juniors"
+    },
+    "league": "CONMEBOL Sudamericana",
+    "venue": {
+      "fullName": "Alberto José Armando (La Bombonera)",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694221",
+    "competitors": [
+      {
+        "id": "7764",
+        "abbrev": "PLA",
+        "displayName": "Platense",
+        "shortDisplayName": "Platense",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7764.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Platense",
+        "links": "/futbol/equipo/_/id/7764/platense",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "date": "2024-06-02T17:30Z",
+    "tbd": false,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694221/boca-juniors-platense",
+    "teams": [
+      {
+        "id": "7764",
+        "abbrev": "PLA",
+        "displayName": "Platense",
+        "shortDisplayName": "Platense",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7764.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Platense",
+        "links": "/futbol/equipo/_/id/7764/platense",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "Dom, Junio 2º at 1:30 PM EDT",
+      "link": "/futbol/partido/_/juegoId/694221/boca-juniors-platense"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Ciudad de Vicente López",
+      "address": { "city": "Florida, Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694229",
+    "competitors": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "21",
+        "abbrev": "VEL",
+        "displayName": "Vélez Sarsfield",
+        "shortDisplayName": "Vélez Sarsfield",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Vélez Sarsfield",
+        "links": "/futbol/equipo/_/id/21/velez-sarsfield",
+        "isHome": false
+      }
+    ],
+    "date": "2024-06-15T00:00Z",
+    "tbd": false,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694229/velez-sarsfield-boca-juniors",
+    "teams": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "21",
+        "abbrev": "VEL",
+        "displayName": "Vélez Sarsfield",
+        "shortDisplayName": "Vélez Sarsfield",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Vélez Sarsfield",
+        "links": "/futbol/equipo/_/id/21/velez-sarsfield",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "Vie, Junio 14º at 8:00 PM EDT",
+      "link": "/futbol/partido/_/juegoId/694229/velez-sarsfield-boca-juniors"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Alberto José Armando (La Bombonera)",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "702619",
+    "competitors": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "9740",
+        "abbrev": "Alte Brown",
+        "displayName": "Almirante Brown",
+        "shortDisplayName": "Almirante Brown",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9740.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Almirante Brown",
+        "links": "/futbol/equipo/_/id/9740/almirante-brown",
+        "isHome": false
+      }
+    ],
+    "date": "2024-07-20T18:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/702619/almirante-brown-boca-juniors",
+    "teams": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "9740",
+        "abbrev": "Alte Brown",
+        "displayName": "Almirante Brown",
+        "shortDisplayName": "Almirante Brown",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9740.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Almirante Brown",
+        "links": "/futbol/equipo/_/id/9740/almirante-brown",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "7/20 - P.A.",
+      "link": "/futbol/partido/_/juegoId/702619/almirante-brown-boca-juniors"
+    },
+    "league": "Copa Argentina",
+    "venue": { "fullName": "TBC", "address": {} },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694246",
+    "competitors": [
+      {
+        "id": "8950",
+        "abbrev": "DYJ",
+        "displayName": "Defensa y Justicia",
+        "shortDisplayName": "Defensa y Justicia",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8950.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Defensa y Justicia",
+        "links": "/futbol/equipo/_/id/8950/defensa-y-justicia",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "date": "2024-07-21T18:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694246/boca-juniors-defensa-y-justicia",
+    "teams": [
+      {
+        "id": "8950",
+        "abbrev": "DYJ",
+        "displayName": "Defensa y Justicia",
+        "shortDisplayName": "Defensa y Justicia",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8950.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Defensa y Justicia",
+        "links": "/futbol/equipo/_/id/8950/defensa-y-justicia",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "7/21 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694246/boca-juniors-defensa-y-justicia"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Norberto Tomaghello",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694256",
+    "competitors": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "235",
+        "abbrev": "BAN",
+        "displayName": "Banfield",
+        "shortDisplayName": "Banfield",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/235.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Banfield",
+        "links": "/futbol/equipo/_/id/235/banfield",
+        "isHome": false
+      }
+    ],
+    "date": "2024-07-24T18:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694256/banfield-boca-juniors",
+    "teams": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "235",
+        "abbrev": "BAN",
+        "displayName": "Banfield",
+        "shortDisplayName": "Banfield",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/235.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Banfield",
+        "links": "/futbol/equipo/_/id/235/banfield",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "7/24 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694256/banfield-boca-juniors"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Alberto José Armando (La Bombonera)",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694277",
+    "competitors": [
+      {
+        "id": "2975",
+        "abbrev": "IACC",
+        "displayName": "Instituto (Córdoba)",
+        "shortDisplayName": "Instituto (Córdoba)",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2975.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Instituto (Córdoba)",
+        "links": "/futbol/equipo/_/id/2975/instituto-cordoba",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "date": "2024-07-28T18:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694277/boca-juniors-instituto-cordoba",
+    "teams": [
+      {
+        "id": "2975",
+        "abbrev": "IACC",
+        "displayName": "Instituto (Córdoba)",
+        "shortDisplayName": "Instituto (Córdoba)",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2975.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Instituto (Córdoba)",
+        "links": "/futbol/equipo/_/id/2975/instituto-cordoba",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "7/28 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694277/boca-juniors-instituto-cordoba"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Monumental Presidente Perón",
+      "address": { "city": "Córdoba", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694291",
+    "competitors": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "10060",
+        "abbrev": "BAR",
+        "displayName": "Barracas Central",
+        "shortDisplayName": "Barracas Central",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10060.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Barracas Central",
+        "links": "/futbol/equipo/_/id/10060/barracas-central",
+        "isHome": false
+      }
+    ],
+    "date": "2024-08-04T18:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694291/barracas-central-boca-juniors",
+    "teams": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "10060",
+        "abbrev": "BAR",
+        "displayName": "Barracas Central",
+        "shortDisplayName": "Barracas Central",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10060.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Barracas Central",
+        "links": "/futbol/equipo/_/id/10060/barracas-central",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "8/4 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694291/barracas-central-boca-juniors"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Alberto José Armando (La Bombonera)",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694310",
+    "competitors": [
+      {
+        "id": "9744",
+        "abbrev": "RIV",
+        "displayName": "Independiente Rivadavia",
+        "shortDisplayName": "Independiente Rivadavia",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9744.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Independiente Rivadavia",
+        "links": "/futbol/equipo/_/id/9744/independiente-rivadavia",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "date": "2024-08-11T18:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694310/boca-juniors-independiente-rivadavia",
+    "teams": [
+      {
+        "id": "9744",
+        "abbrev": "RIV",
+        "displayName": "Independiente Rivadavia",
+        "shortDisplayName": "Independiente Rivadavia",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9744.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Independiente Rivadavia",
+        "links": "/futbol/equipo/_/id/9744/independiente-rivadavia",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "8/11 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694310/boca-juniors-independiente-rivadavia"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Bautista Garganti",
+      "address": { "city": "Mendoza", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694312",
+    "competitors": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "18",
+        "abbrev": "SL",
+        "displayName": "San Lorenzo",
+        "shortDisplayName": "San Lorenzo",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "San Lorenzo",
+        "links": "/futbol/equipo/_/id/18/san-lorenzo",
+        "isHome": false
+      }
+    ],
+    "date": "2024-08-18T18:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694312/san-lorenzo-boca-juniors",
+    "teams": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "18",
+        "abbrev": "SL",
+        "displayName": "San Lorenzo",
+        "shortDisplayName": "San Lorenzo",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "San Lorenzo",
+        "links": "/futbol/equipo/_/id/18/san-lorenzo",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "8/18 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694312/san-lorenzo-boca-juniors"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Alberto José Armando (La Bombonera)",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694325",
+    "competitors": [
+      {
+        "id": "8",
+        "abbrev": "EST",
+        "displayName": "Estudiantes de La Plata",
+        "shortDisplayName": "Estudiantes de La Plata",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Estudiantes de La Plata",
+        "links": "/futbol/equipo/_/id/8/estudiantes-de-la-plata",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "date": "2024-08-25T18:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694325/boca-juniors-estudiantes-de-la-plata",
+    "teams": [
+      {
+        "id": "8",
+        "abbrev": "EST",
+        "displayName": "Estudiantes de La Plata",
+        "shortDisplayName": "Estudiantes de La Plata",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Estudiantes de La Plata",
+        "links": "/futbol/equipo/_/id/8/estudiantes-de-la-plata",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "8/25 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694325/boca-juniors-estudiantes-de-la-plata"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Jorge Luis Hirschi",
+      "address": { "city": "La Plata", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694349",
+    "competitors": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "17",
+        "abbrev": "ROS",
+        "displayName": "Rosario Central",
+        "shortDisplayName": "Rosario Central",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Rosario Central",
+        "links": "/futbol/equipo/_/id/17/rosario-central",
+        "isHome": false
+      }
+    ],
+    "date": "2024-09-01T18:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694349/rosario-central-boca-juniors",
+    "teams": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "17",
+        "abbrev": "ROS",
+        "displayName": "Rosario Central",
+        "shortDisplayName": "Rosario Central",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Rosario Central",
+        "links": "/futbol/equipo/_/id/17/rosario-central",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "9/1 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694349/rosario-central-boca-juniors"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Alberto José Armando (La Bombonera)",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694356",
+    "competitors": [
+      {
+        "id": "15",
+        "abbrev": "RAC",
+        "displayName": "Racing Club",
+        "shortDisplayName": "Racing Club",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Racing Club",
+        "links": "/futbol/equipo/_/id/15/racing-club",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "date": "2024-09-15T18:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694356/boca-juniors-racing-club",
+    "teams": [
+      {
+        "id": "15",
+        "abbrev": "RAC",
+        "displayName": "Racing Club",
+        "shortDisplayName": "Racing Club",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Racing Club",
+        "links": "/futbol/equipo/_/id/15/racing-club",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "9/15 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694356/boca-juniors-racing-club"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Presidente Perón (Cilindro de Avellaneda)",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694369",
+    "competitors": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "16",
+        "abbrev": "RIV",
+        "displayName": "River Plate",
+        "shortDisplayName": "River Plate",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "River Plate",
+        "links": "/futbol/equipo/_/id/16/river-plate",
+        "isHome": false
+      }
+    ],
+    "date": "2024-09-22T18:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694369/river-plate-boca-juniors",
+    "teams": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "16",
+        "abbrev": "RIV",
+        "displayName": "River Plate",
+        "shortDisplayName": "River Plate",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "River Plate",
+        "links": "/futbol/equipo/_/id/16/river-plate",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "9/22 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694369/river-plate-boca-juniors"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Alberto José Armando (La Bombonera)",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694382",
+    "competitors": [
+      {
+        "id": "4",
+        "abbrev": "BEL",
+        "displayName": "Belgrano (Córdoba)",
+        "shortDisplayName": "Belgrano (Córdoba)",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Belgrano (Córdoba)",
+        "links": "/futbol/equipo/_/id/4/belgrano-cordoba",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "date": "2024-09-29T18:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694382/boca-juniors-belgrano-cordoba",
+    "teams": [
+      {
+        "id": "4",
+        "abbrev": "BEL",
+        "displayName": "Belgrano (Córdoba)",
+        "shortDisplayName": "Belgrano (Córdoba)",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Belgrano (Córdoba)",
+        "links": "/futbol/equipo/_/id/4/belgrano-cordoba",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "9/29 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694382/boca-juniors-belgrano-cordoba"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "El Gigante de Alberdi",
+      "address": { "city": "Córdoba", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694398",
+    "competitors": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "3",
+        "abbrev": "ARGJ",
+        "displayName": "Argentinos Juniors",
+        "shortDisplayName": "Argentinos Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Argentinos Juniors",
+        "links": "/futbol/equipo/_/id/3/argentinos-juniors",
+        "isHome": false
+      }
+    ],
+    "date": "2024-10-06T18:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694398/argentinos-juniors-boca-juniors",
+    "teams": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "3",
+        "abbrev": "ARGJ",
+        "displayName": "Argentinos Juniors",
+        "shortDisplayName": "Argentinos Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Argentinos Juniors",
+        "links": "/futbol/equipo/_/id/3/argentinos-juniors",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "10/6 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694398/argentinos-juniors-boca-juniors"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Alberto José Armando (La Bombonera)",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694421",
+    "competitors": [
+      {
+        "id": "7767",
+        "abbrev": "TIG",
+        "displayName": "Tigre",
+        "shortDisplayName": "Tigre",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7767.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Tigre",
+        "links": "/futbol/equipo/_/id/7767/tigre",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "date": "2024-10-20T18:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694421/boca-juniors-tigre",
+    "teams": [
+      {
+        "id": "7767",
+        "abbrev": "TIG",
+        "displayName": "Tigre",
+        "shortDisplayName": "Tigre",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7767.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Tigre",
+        "links": "/futbol/equipo/_/id/7767/tigre",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "10/20 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694421/boca-juniors-tigre"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Monumental de Victoria (José Dellagiovanna)",
+      "address": { "city": "Provincia de Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694426",
+    "competitors": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "17702",
+        "abbrev": "RIE",
+        "displayName": "Deportivo Riestra",
+        "shortDisplayName": "Deportivo Riestra",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17702.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Deportivo Riestra",
+        "links": "/futbol/equipo/_/id/17702/deportivo-riestra",
+        "isHome": false
+      }
+    ],
+    "date": "2024-10-27T18:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694426/deportivo-riestra-boca-juniors",
+    "teams": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "17702",
+        "abbrev": "RIE",
+        "displayName": "Deportivo Riestra",
+        "shortDisplayName": "Deportivo Riestra",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17702.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Deportivo Riestra",
+        "links": "/futbol/equipo/_/id/17702/deportivo-riestra",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "10/27 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694426/deportivo-riestra-boca-juniors"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Alberto José Armando (La Bombonera)",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694444",
+    "competitors": [
+      {
+        "id": "12",
+        "abbrev": "LAN",
+        "displayName": "Lanús",
+        "shortDisplayName": "Lanús",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Lanús",
+        "links": "/futbol/equipo/_/id/12/lanus",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "date": "2024-11-03T20:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694444/boca-juniors-lanus",
+    "teams": [
+      {
+        "id": "12",
+        "abbrev": "LAN",
+        "displayName": "Lanús",
+        "shortDisplayName": "Lanús",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Lanús",
+        "links": "/futbol/equipo/_/id/12/lanus",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "11/3 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694444/boca-juniors-lanus"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Ciudad de Lanús",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694454",
+    "competitors": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "6756",
+        "abbrev": "GCM",
+        "displayName": "Godoy Cruz Antonio Tomba",
+        "shortDisplayName": "Godoy Cruz Antonio Tomba",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6756.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Godoy Cruz Antonio Tomba",
+        "links": "/futbol/equipo/_/id/6756/godoy-cruz-antonio-tomba",
+        "isHome": false
+      }
+    ],
+    "date": "2024-11-06T20:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694454/godoy-cruz-antonio-tomba-boca-juniors",
+    "teams": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "6756",
+        "abbrev": "GCM",
+        "displayName": "Godoy Cruz Antonio Tomba",
+        "shortDisplayName": "Godoy Cruz Antonio Tomba",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6756.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Godoy Cruz Antonio Tomba",
+        "links": "/futbol/equipo/_/id/6756/godoy-cruz-antonio-tomba",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "11/6 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694454/godoy-cruz-antonio-tomba-boca-juniors"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Alberto José Armando (La Bombonera)",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694476",
+    "competitors": [
+      {
+        "id": "10158",
+        "abbrev": "SARM",
+        "displayName": "Sarmiento (Junín)",
+        "shortDisplayName": "Sarmiento (Junín)",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10158.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Sarmiento (Junín)",
+        "links": "/futbol/equipo/_/id/10158/sarmiento-junin",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "date": "2024-11-10T20:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694476/boca-juniors-sarmiento-junin",
+    "teams": [
+      {
+        "id": "10158",
+        "abbrev": "SARM",
+        "displayName": "Sarmiento (Junín)",
+        "shortDisplayName": "Sarmiento (Junín)",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10158.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Sarmiento (Junín)",
+        "links": "/futbol/equipo/_/id/10158/sarmiento-junin",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "11/10 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694476/boca-juniors-sarmiento-junin"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Eva Perón",
+      "address": { "city": "Junin", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694482",
+    "competitors": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "20",
+        "abbrev": "USF",
+        "displayName": "Unión (Santa Fe)",
+        "shortDisplayName": "Unión (Santa Fe)",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Unión (Santa Fe)",
+        "links": "/futbol/equipo/_/id/20/union-santa-fe",
+        "isHome": false
+      }
+    ],
+    "date": "2024-11-20T20:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694482/union-santa-fe-boca-juniors",
+    "teams": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "20",
+        "abbrev": "USF",
+        "displayName": "Unión (Santa Fe)",
+        "shortDisplayName": "Unión (Santa Fe)",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Unión (Santa Fe)",
+        "links": "/futbol/equipo/_/id/20/union-santa-fe",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "11/20 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694482/union-santa-fe-boca-juniors"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Alberto José Armando (La Bombonera)",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694497",
+    "competitors": [
+      {
+        "id": "10",
+        "abbrev": "HUR",
+        "displayName": "Huracán",
+        "shortDisplayName": "Huracán",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Huracán",
+        "links": "/futbol/equipo/_/id/10/huracan",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "date": "2024-11-24T20:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694497/boca-juniors-huracan",
+    "teams": [
+      {
+        "id": "10",
+        "abbrev": "HUR",
+        "displayName": "Huracán",
+        "shortDisplayName": "Huracán",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Huracán",
+        "links": "/futbol/equipo/_/id/10/huracan",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "11/24 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694497/boca-juniors-huracan"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Tomás Adolfo Ducó",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694510",
+    "competitors": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "9",
+        "abbrev": "GLP",
+        "displayName": "Gimnasia La Plata",
+        "shortDisplayName": "Gimnasia La Plata",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Gimnasia La Plata",
+        "links": "/futbol/equipo/_/id/9/gimnasia-la-plata",
+        "isHome": false
+      }
+    ],
+    "date": "2024-12-01T20:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694510/gimnasia-la-plata-boca-juniors",
+    "teams": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "9",
+        "abbrev": "GLP",
+        "displayName": "Gimnasia La Plata",
+        "shortDisplayName": "Gimnasia La Plata",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Gimnasia La Plata",
+        "links": "/futbol/equipo/_/id/9/gimnasia-la-plata",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "12/1 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694510/gimnasia-la-plata-boca-juniors"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Alberto José Armando (La Bombonera)",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694530",
+    "competitors": [
+      {
+        "id": "14",
+        "abbrev": "NOB",
+        "displayName": "Newell's Old Boys",
+        "shortDisplayName": "Newell's Old Boys",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/14.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Newell's Old Boys",
+        "links": "/futbol/equipo/_/id/14/newells-old-boys",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "date": "2024-12-08T20:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694530/boca-juniors-newells-old-boys",
+    "teams": [
+      {
+        "id": "14",
+        "abbrev": "NOB",
+        "displayName": "Newell's Old Boys",
+        "shortDisplayName": "Newell's Old Boys",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/14.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Newell's Old Boys",
+        "links": "/futbol/equipo/_/id/14/newells-old-boys",
+        "isHome": true
+      },
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "12/8 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694530/boca-juniors-newells-old-boys"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Marcelo Bielsa",
+      "address": { "city": "Rosario", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  },
+  {
+    "id": "694538",
+    "competitors": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "11",
+        "abbrev": "IND",
+        "displayName": "Independiente",
+        "shortDisplayName": "Independiente",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Independiente",
+        "links": "/futbol/equipo/_/id/11/independiente",
+        "isHome": false
+      }
+    ],
+    "date": "2024-12-15T20:00Z",
+    "tbd": true,
+    "completed": false,
+    "broadcasts": null,
+    "link": "/futbol/partido/_/juegoId/694538/independiente-boca-juniors",
+    "teams": [
+      {
+        "id": "5",
+        "abbrev": "CABJ",
+        "displayName": "Boca Juniors",
+        "shortDisplayName": "Boca Juniors",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Boca Juniors",
+        "links": "/futbol/equipo/_/id/5/boca-juniors",
+        "isHome": true
+      },
+      {
+        "id": "11",
+        "abbrev": "IND",
+        "displayName": "Independiente",
+        "shortDisplayName": "Independiente",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11.png",
+        "recordSummary": "",
+        "standingSummary": "",
+        "location": "Independiente",
+        "links": "/futbol/equipo/_/id/11/independiente",
+        "isHome": false
+      }
+    ],
+    "isTie": true,
+    "tickets": null,
+    "dateFormat": "ddd, D [de] MMM",
+    "score": "",
+    "status": {
+      "state": "pre",
+      "detail": "12/15 - P.A.",
+      "link": "/futbol/partido/_/juegoId/694538/independiente-boca-juniors"
+    },
+    "league": "Liga Profesional de Argentina",
+    "venue": {
+      "fullName": "Alberto José Armando (La Bombonera)",
+      "address": { "city": "Buenos Aires", "country": "Argentina" }
+    },
+    "attnd": 0,
+    "odds": false,
+    "notes": ""
+  }
+]
